@@ -72,9 +72,27 @@ Contributions:
   Checkpoint results:
   we got edit profile.videos,douts and answers
 
-# RESEARCH QUESTION
+                               RESEARCH QUESTION
+
 1.why do not we keep online chatting tool?
 
 2.we can keep video chating tool so that students and faculty can access face to face
 
 3.we can implement seperate exam tool with videocam. 
+
+                                               CONCLUSION
+	
+  A computerized alumni management  system has been developed and the system was tested with 
+  sample data.The system results in regular timely preparations of required outputs. In comparison
+  with manual system the benefits under a computer system are considerable in the saving of man 
+  power working hours .It also increases the feasability Provision for addition and deletion of 
+  student /faculty is there in the system.It is possible to view information of other student/faculty 
+  after successfully logging in. The entire project runs on windows environments. The system can be 
+  used to increase  student faculty interaction and also increase their involvement with the college.
+                                           
+					
+                                         SCOPE OF ENHANCEMENT
+
+ The system may be further updated or modified at will owing to its simple structure. Facillities such
+ as chat and video could also be provided.
+
